@@ -44,8 +44,5 @@ abstract class DataSaverPlatform extends PlatformInterface {
   /// Check the current data saver mode.
   ///
   /// See [DataSaverMode] for available options.
-  Future<DataSaverMode> checkMode() async {
-    // Fallback to `disabled` on unimplemented platforms.
-    return DataSaverMode.disabled;
-  }
+  Future<DataSaverMode> checkMode();
 }
