@@ -1,8 +1,14 @@
 # data_saver
 
-[![Package](https://img.shields.io/pub/v/data_saver.svg)](https://pub.dev/packages/data_saver) [![Publisher](https://img.shields.io/pub/publisher/data_saver.svg)](https://pub.dev/packages/data_saver/publisher) [![data_saver - Checks](https://github.com/n-bernat/data_saver/actions/workflows/flutter_checks.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_checks.yaml) [![MIT License](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+[![Package](https://img.shields.io/pub/v/data_saver.svg)](https://pub.dev/packages/data_saver) [![Publisher](https://img.shields.io/pub/publisher/data_saver.svg)](https://pub.dev/packages/data_saver/publisher) [![MIT License](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
-`data_saver` provides a simple way of checking the current Data Saver (Android) / Low Data Mode (iOS).
+`data_saver` provides a simple way of checking the current [Data Saver](https://source.android.com/docs/core/data/data-saver) (Android) / [Low Data Mode](https://developer.apple.com/documentation/foundation/nsurlsessionconfiguration/3235751-allowsconstrainednetworkaccess) (iOS).
+
+|                                                                                                       Status                                                                                                       |             Comments              |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------: |
+| [![data_saver - Tests (stable)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_stable.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_stable.yaml) |  Latest stable Flutter version.   |
+|    [![data_saver - Tests (beta)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_beta.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_beta.yaml)    |   Latest beta Flutter version.    |
+|    [![data_saver - Tests (3.13.0)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml)    | Oldest supported Flutter version. |
 
 ## Getting started
 
