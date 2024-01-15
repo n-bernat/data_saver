@@ -1,15 +1,18 @@
-name: data_saver - Checks
+# flutter_tests_*.yaml actions are duplicated, because GitHub doesn't support badges for matrix builds.
+name: data_saver - Tests (master)
 on:
   workflow_dispatch:
   pull_request:
   push:
     branches:
       - master
+  schedule:
+    - cron: "0 0 * * 0"
 
 jobs:
   build:
     timeout-minutes: 5
-    name: Flutter checks
+    name: Flutter tests
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -18,8 +21,7 @@ jobs:
       - name: Install Flutter
         uses: subosito/flutter-action@v2
         with:
-          cache: true
-          channel: "stable"
+          channel: "master"
 
       - name: Print version
         run: flutter --version
