@@ -33,7 +33,7 @@ final mode = await dataSaver.checkMode();
 
 ## Additional information
 
-- This package requires at least Flutter 3.10 to work.
+- This package requires at least Flutter 3.13 to work.
 - If there are any issues feel free to go to [GitHub Issues](https://github.com/n-bernat/data_saver/issues) and report a bug.
 
 ## Maintainers
