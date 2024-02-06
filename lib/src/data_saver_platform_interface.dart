@@ -1,6 +1,5 @@
+import 'package:data_saver/src/data_saver_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-
-import 'data_saver_method_channel.dart';
 
 /// Current data saver policy.
 /// https://developer.android.com/training/basics/network-ops/data-saver#status

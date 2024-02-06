@@ -1,6 +1,5 @@
+import 'package:data_saver/src/data_saver_platform_interface.dart';
 import 'package:flutter/services.dart';
-
-import 'src/data_saver_platform_interface.dart';
 
 export 'src/data_saver_platform_interface.dart' show DataSaverMode;
 
