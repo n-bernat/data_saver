@@ -37,6 +37,10 @@ const dataSaver = DataSaver();
 final mode = await dataSaver.checkMode();
 ```
 
+## Behavior on unsupported platforms
+
+If a particular platform is not supported by this plugin it will return `DataSaverMode.disabled` instead of throwing a `MissingPluginException`. Support for more platforms is coming soon.
+
 ## Additional information
 
 - This package requires at least Flutter 3.13 to work.
