@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  js: ^0.7.0
   plugin_platform_interface: ^2.0.2
+  web: ^0.3.0
 
 dev_dependencies:
   flutter_test:
