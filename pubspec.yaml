@@ -1,6 +1,6 @@
 name: data_saver
 description: Simple Flutter plugin to check the current Data Saver/Low Data Mode.
-version: 0.0.1
+version: 0.1.0
 repository: https://github.com/n-bernat/data_saver
 issue_tracker: https://github.com/n-bernat/data_saver/issues
 
