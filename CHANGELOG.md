@@ -1,3 +1,8 @@
+## 0.3.0
+
+- **Breaking**: `data_saver` now requires `web: ^1.0.0`
+- Added `leancode_lint` package instead of a custom set of rules
+
 ## 0.2.0
 
 - Added support for macOS

@@ -1,6 +1,6 @@
 # data_saver
 
-[![Package](https://img.shields.io/pub/v/data_saver.svg)](https://pub.dev/packages/data_saver) [![Publisher](https://img.shields.io/pub/publisher/data_saver.svg)](https://pub.dev/packages/data_saver/publisher) [![MIT License](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+[![Package](https://img.shields.io/pub/v/data_saver.svg)](https://pub.dev/packages/data_saver) [![Publisher](https://img.shields.io/pub/publisher/data_saver.svg)](https://pub.dev/packages/data_saver/publisher) [![MIT License](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT) [![LeanCode Style](https://img.shields.io/badge/style-leancode__lint-black)](https://pub.dartlang.org/packages/leancode_lint)
 
 `data_saver` provides a simple way of checking the current [Data Saver](https://source.android.com/docs/core/data/data-saver) (Android) / [Low Data Mode](https://developer.apple.com/documentation/foundation/nsurlsessionconfiguration/3235751-allowsconstrainednetworkaccess) (iOS).
 
