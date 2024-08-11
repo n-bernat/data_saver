@@ -8,7 +8,7 @@
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
 | [![data_saver - Tests (stable)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_stable.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_stable.yaml) |    Current stable Flutter version    |
 |    [![data_saver - Tests (beta)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_beta.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_beta.yaml)    |     Current beta Flutter version     |
-|    [![data_saver - Tests (3.16.0)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml)    | The oldest supported Flutter version |
+|    [![data_saver - Tests (3.22.0)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml)    | The oldest supported Flutter version |
 
 ## Getting started
 
@@ -43,7 +43,7 @@ If a particular platform is not supported by this plugin it will return `DataSav
 
 ## Additional information
 
-- This package requires at least Flutter 3.16 to work.
+- This package requires at least Flutter 3.22 to work.
 - If there are any issues feel free to go to [GitHub Issues](https://github.com/n-bernat/data_saver/issues) and report a bug.
 
 ## Maintainers
