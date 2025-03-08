@@ -5,8 +5,8 @@ repository: https://github.com/n-bernat/data_saver
 issue_tracker: https://github.com/n-bernat/data_saver/issues
 
 environment:
-  sdk: ">=3.4.0 <4.0.0"
-  flutter: ">=3.22.0"
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
 
 dependencies:
   flutter:
@@ -19,7 +19,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  leancode_lint: ^13.0.0
+  leancode_lint: ^15.1.0
 
 flutter:
   plugin:

@@ -4,11 +4,11 @@
 
 `data_saver` provides a simple way of checking the current [Data Saver](https://source.android.com/docs/core/data/data-saver) (Android) / [Low Data Mode](https://developer.apple.com/documentation/foundation/nsurlsessionconfiguration/3235751-allowsconstrainednetworkaccess) (iOS).
 
-|                                                                                                       Status                                                                                                       |               Comments               |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
-| [![data_saver - Tests (stable)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_stable.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_stable.yaml) |    Current stable Flutter version    |
-|    [![data_saver - Tests (beta)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_beta.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_beta.yaml)    |     Current beta Flutter version     |
-|    [![data_saver - Tests (3.22.0)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/flutter_tests_min.yaml)    | The oldest supported Flutter version |
+|                                                                                              Status                                                                                              |               Comments               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
+| [![data_saver - Tests (stable)](https://github.com/n-bernat/data_saver/actions/workflows/test_stable.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/test_stable.yaml) |    Current stable Flutter version    |
+|    [![data_saver - Tests (beta)](https://github.com/n-bernat/data_saver/actions/workflows/test_beta.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/test_beta.yaml)    |     Current beta Flutter version     |
+|    [![data_saver - Tests (3.27.0)](https://github.com/n-bernat/data_saver/actions/workflows/test_min.yaml/badge.svg)](https://github.com/n-bernat/data_saver/actions/workflows/test_min.yaml)    | The oldest supported Flutter version |
 
 ## Getting started
 
@@ -43,7 +43,7 @@ If a particular platform is not supported by this plugin it will return `DataSav
 
 ## Additional information
 
-- This package requires at least Flutter 3.22 to work.
+- This package requires at least Flutter 3.27 to work.
 - If there are any issues feel free to go to [GitHub Issues](https://github.com/n-bernat/data_saver/issues) and report a bug.
 
 ## Maintainers
