@@ -1,4 +1,4 @@
-# Unreleased
+## 0.4.0
 
 - **Breaking**: Bumped min. Flutter version to 3.27.0
 - Updated CI/CD pipeline
